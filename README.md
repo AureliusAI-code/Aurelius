@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="(https://i.imgur.com/mZDy9Fo.jpeg)" width="100%">
+</p>
 # Aurelius
 
 **Intelligence with Wisdom.**
