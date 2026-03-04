@@ -22,16 +22,6 @@ Instead of simply generating answers, Aurelius aims to function as a **thinking 
 
 ---
 
-# Official Website
-
-The main platform for Aurelius can be accessed here:
-
-https://aureliusbase.xyz
-
-The website acts as the central hub for the Aurelius project, where users can explore the system philosophy, experimental interfaces, and future developments.
-
----
-
 # Vision
 
 The future of intelligence is not defined by faster responses.
