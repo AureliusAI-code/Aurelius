@@ -129,8 +129,8 @@ Interfaces, capabilities, and architecture may evolve rapidly as the system deve
 
 # Connect
 
-Website  
-https://aureliusbase.xyz
+GitHub  
+https://github.com/AureliusAI-code
 
 X  
 https://x.com/aureliusbase
